@@ -22,3 +22,16 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Clario / AI Tools
+.clario/
+.cursor/
+.mcp.json
+AGENT.md
+CLAUDE.md
+
+# Vite
+.vite/
+
+# Standalone ERP (if not intended for this repo)
+ERP_Portal_Standalone/
